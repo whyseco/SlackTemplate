@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackTemplate.Program", "SlackTemplate.Program\SlackTemplate.Program.csproj", "{0D560A2E-46A4-459B-BFDE-F4EA030CC14C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackTemplate.Core", "SlackTemplate.Core\SlackTemplate.Core.csproj", "{FFE281BE-CFBB-453E-AB9F-6E2154F8718B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackTemplate", "SlackTemplate\SlackTemplate.csproj", "{69C43828-ECE1-4732-BBC8-20D88DC549CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D560A2E-46A4-459B-BFDE-F4EA030CC14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D560A2E-46A4-459B-BFDE-F4EA030CC14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D560A2E-46A4-459B-BFDE-F4EA030CC14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D560A2E-46A4-459B-BFDE-F4EA030CC14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE281BE-CFBB-453E-AB9F-6E2154F8718B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE281BE-CFBB-453E-AB9F-6E2154F8718B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE281BE-CFBB-453E-AB9F-6E2154F8718B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE281BE-CFBB-453E-AB9F-6E2154F8718B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C43828-ECE1-4732-BBC8-20D88DC549CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C43828-ECE1-4732-BBC8-20D88DC549CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C43828-ECE1-4732-BBC8-20D88DC549CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C43828-ECE1-4732-BBC8-20D88DC549CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B61A528A-656E-4F3E-900D-0482DC35787F}
+	EndGlobalSection
+EndGlobal
